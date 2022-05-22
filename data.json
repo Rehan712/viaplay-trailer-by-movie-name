@@ -1,0 +1,10 @@
+{
+  "ids": {
+    "Video": 2
+  },
+  "models": {
+    "Video": {
+      "1": "{\"imdbId\":\"tt2543164\",\"name\":\"arrival-2016\",\"key\":\"tFMo3UJ4B4g\",\"url\":\"https://youtube.com/watch?v=tFMo3UJ4B4g\",\"site\":\"YouTube\",\"createdAt\":\"2022-05-22T19:32:50.718Z\",\"updatedAt\":\"2022-05-22T19:32:50.718Z\",\"id\":\"1\"}"
+    }
+  }
+}
